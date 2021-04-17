@@ -1,4 +1,5 @@
 # Sygonix_SY-3822412
+* Sygonix SY-3822412 WiFi switch
 * settings for platformio and arduino  
 
 ## for your source code
