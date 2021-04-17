@@ -26,3 +26,7 @@ board = esp01_1m
 framework = arduino
 board_build.flash_mode = dout
 ```
+
+## hardware details
+* pin headers added
+![Sygonix SY-3822412](https://github.com/lambkinhill/Sygonix_SY-3822412/blob/main/Sygonix_SY-3822412.png)
